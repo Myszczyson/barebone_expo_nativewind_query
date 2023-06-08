@@ -1,7 +1,9 @@
 {
-    "editor.formatOnSave": true,
     "editor.codeActionsOnSave": {
         "source.fixAll": false
     },
-    "editor.defaultFormatter": "rome.rome"
+    "editor.defaultFormatter": "rome.rome",
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": false,
+    "editor.formatOnType": false,
 }
